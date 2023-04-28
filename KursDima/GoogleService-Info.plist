@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>552537468748-3mhjd67pebqpdcakc1n0p05vg1ljhqlc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.552537468748-3mhjd67pebqpdcakc1n0p05vg1ljhqlc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAHQMWnTB-_rYNi8-LGQFacqrvBU_szYdE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>552537468748</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kursova.KursDima</string>
+	<key>PROJECT_ID</key>
+	<string>kursach-dabe6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kursach-dabe6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:552537468748:ios:4f6b6605a0c57cf76469e9</string>
+</dict>
+</plist>
